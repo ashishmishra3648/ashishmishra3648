@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Imran Alam
+# 💫 Hi 👋, I'm Ashish Mishra
 A passionate JAVA FULL STACK DEVELOPER || MACHINE LEARNING & DATA SCIENCE ENTHUSIAST || WEB DEVELOPER from India
 
 Email Me 👉 ✉️ am8419941@gmail.com For Collaboration/Project or Anything Else. 😊😊
