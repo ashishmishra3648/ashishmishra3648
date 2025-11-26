@@ -1,34 +1,34 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=System.out.println(%22Hello+World!%22)%3B;I'm+Ashish+Mishra;Java+Full+Stack+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
 </div>
+<!-- <br/> -->
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi Animation" width="120px" />
+</div> -->
+<!-- <br/> -->
 
-<div align="center">
+<div align="center" style="border: 2px solid #20C20E; border-radius: 10px; padding: 20px;">
+  <h3>🌐 Connect with me:</h3>
   <a href="https://instagram.com/__the_wizard_10">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/ashish-mishra3648">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/@Am8419941Ashish">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
   <a href="mailto:am8419941@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Gif" />
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Banking-Management-System**
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🔭 I'm currently working on **Banking-Management-System**
+- 🌱 I'm currently learning **Java Full Stack Development**
 - 💬 Ask me about **Collaboration, Tech Support**
 - 📫 How to reach me: **am8419941@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -50,14 +50,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishmishra3648&theme=radical&hide_border=true&include_all_commits=true&count_private=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishmishra3648&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishmishra3648&show_icons=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishmishra3648&layout=compact&theme=radical&hide_border=false" height="180" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ashishmishra3648&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishmishra3648&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p> -->
 
 ### 🏆 Trophies
 <div align="center">
@@ -72,7 +72,5 @@
 </div>
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ashishmishra3648&icon=0&color=0" alt="visit count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ashishmishra3648&label=Profile%20Views&color=0e75b6&style=flat" alt="visit count" />
 </div>
